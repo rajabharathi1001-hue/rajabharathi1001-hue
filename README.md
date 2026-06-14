@@ -4,23 +4,15 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions+That+Drive+Results+🚀)](https://git.io/typing-svg)
-
-<br>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajabharathi1001-hue&label=Profile+Views&color=D4AF37&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/rajabharathi1001-hue?label=Followers&style=flat-square&color=D4AF37" alt="Followers" />
+  <img src="https://komarev.com/ghpvc/?username=rajabharathi1001-hue&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
 </p>
 
 </div>
----
 
 ## 👋 Welcome
 
 I'm **Raja Bharathi R**, a passionate **Data Analyst and Data Science Enthusiast** focused on transforming raw data into meaningful insights through analytics, visualization, and machine learning.
-
----
 
 ## 👤 About Me
 
