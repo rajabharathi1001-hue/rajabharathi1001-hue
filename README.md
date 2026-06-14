@@ -4,6 +4,10 @@
 
 <br>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions+That+Drive+Results)](https://git.io/typing-svg)
+
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=rajabharathi1001-hue&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
 </p>
