@@ -4,7 +4,7 @@
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1200\&color=00C2FF\&center=true\&vCenter=true\&width=900\&lines=Turning+Data+Into+Decisions+That+Drive+Results+🚀;Data+Analytics+%7C+Power+BI+%7C+Machine+Learning;Transforming+Raw+Data+Into+Business+Insights+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions+That+Drive+Results+🚀;Data+Analytics+%7C+Power+BI+%7C+Machine+Learning;Transforming+Raw+Data+Into+Business+Insights+🚀)](https://git.io/typing-svg)
 
 <br>
 
