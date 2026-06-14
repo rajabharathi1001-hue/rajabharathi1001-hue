@@ -1,15 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Raja%20Bharathi%20R&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Data%20Analyst%20%7C%20Power%20BI%20Developer%20%7C%20Machine%20Learning%20Enthusiast&descAlignY=58&descSize=20" />
+<img src="./github-banner.png" width="100%" alt="Raja Bharathi R Banner"/>
 
 <br>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=24\&pause=1200\&color=00C2FF\&center=true\&vCenter=true\&width=900\&lines=Turning+Data+Into+Decisions+That+Drive+Results+🚀;Data+Analytics+%7C+Power+BI+%7C+Machine+Learning;Transforming+Raw+Data+Into+Business+Insights+🚀)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=D4AF37&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions+That+Drive+Results+🚀)](https://git.io/typing-svg)
 
+<br>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rajabharathi1001-hue&label=Profile+Views&color=D4AF37&style=flat-square" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/rajabharathi1001-hue?label=Followers&style=flat-square&color=D4AF37" alt="Followers" />
+</p>
 
 </div>
-
 ---
 
 ## 👋 Welcome
