@@ -20,12 +20,31 @@
   <a href="mailto:rajabharathi1001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1E90FF?style=for-the-badge&logo=gmail&logoColor=FFC400&labelColor=0B1F5C" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Open_to_Work-FFC400?style=flat-square&labelColor=0B1F5C" alt="Status" />
+  <img src="https://img.shields.io/badge/Degree-MCA_Data_Science_%26_AI-1E90FF?style=flat-square&labelColor=0B1F5C" alt="Degree" />
+  <img src="https://img.shields.io/badge/Focus-Data_Analytics_%26_BI-1E90FF?style=flat-square&labelColor=0B1F5C" alt="Focus" />
+  <img src="https://img.shields.io/badge/Graduated-2025-1E90FF?style=flat-square&labelColor=0B1F5C" alt="Graduated" />
+</p>
+
+<p align="center">
+  <b>
+    <a href="#-about-me">About</a> ·
+    <a href="#-featured-projects">Projects</a> ·
+    <a href="#️-tech-stack">Skills</a> ·
+    <a href="#-github-stats">Stats</a> ·
+    <a href="#-achievements--certifications">Certifications</a> ·
+    <a href="#-connect-with-me">Connect</a>
+  </b>
+</p>
+
 </div>
+
+---
 
 ## 👋 Welcome
 
 I'm **Raja Bharathi R**, a **Data Analyst** focused on **SQL, Python, Power BI**, and data visualization. I enjoy transforming raw data into meaningful insights through analysis, dashboards, and machine-learning projects.
-
 
 ### ⚡ Player Card
 
@@ -37,7 +56,15 @@ I'm **Raja Bharathi R**, a **Data Analyst** focused on **SQL, Python, Power BI**
 | 🛠️ **Main Skills** | SQL · Python · Power BI · DAX · PostgreSQL |
 | 🎯 **Next Match** | Data Analyst / BI Analyst / Power BI Developer roles |
 
+---
+
 ## 👤 About Me
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Rajdhani&weight=600&size=18&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=700&lines=Clean+data.+Clear+dashboards.+Better+decisions." alt="Typing quote" />
+
+</div>
 
 🎓 **MCA (Data Science & Artificial Intelligence)** — Guru Nanak College, Chennai (Graduated 2025) | **BCA (Computer Applications)**  
 📍 **Tamil Nadu, India**  
@@ -47,13 +74,30 @@ I'm **Raja Bharathi R**, a **Data Analyst** focused on **SQL, Python, Power BI**
 📧 **Email:** [rajabharathi1001@gmail.com](mailto:rajabharathi1001@gmail.com)  
 📄 **Resume:** [View on Google Drive](https://drive.google.com/file/d/1IcRFmYvkogss6yPHPBZDALnXSM2GSHYi/view)
 
----
-
 I'm a Data Analyst and Data Science enthusiast with a strong foundation in data analytics, business intelligence, and machine learning. I work with **Python, SQL, PostgreSQL, Power BI and DAX** to clean data, model it, and turn it into dashboards and predictions that support decisions.
 
-| 🔭 Currently working on | 🌱 Currently learning |
-|---|---|
-| Data analytics projects, Power BI dashboards, SQL analysis, and my professional portfolio | Advanced Power BI, DAX, SQL, data modeling, and practical data analytics |
+<table width="100%" align="center">
+  <tr>
+    <td width="50%" align="center">
+      <h4>🌟 Flagship Project</h4>
+      <p><a href="https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard"><b>Ecommerce Performance Dashboard</b></a><br /><sub>Power BI · DAX · PostgreSQL</sub></p>
+    </td>
+    <td width="50%" align="center">
+      <h4>🔭 Currently Working On</h4>
+      <p><b>Analytics projects &amp; Power BI dashboards</b><br /><sub>SQL analysis and my professional portfolio</sub></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h4>🌱 Currently Learning</h4>
+      <p><b>Advanced Power BI &amp; DAX</b><br /><sub>SQL, data modeling and practical data analytics</sub></p>
+    </td>
+    <td width="50%" align="center">
+      <h4>🤝 Collaboration</h4>
+      <p><b>Data Analytics, BI &amp; ML</b><br /><sub>Open to Data Analyst / BI roles and new projects</sub></p>
+    </td>
+  </tr>
+</table>
 
 💬 **Ask me about:** SQL, Power BI, DAX, Python, Pandas, PostgreSQL, Excel, data cleaning, data analysis, and dashboards.
 
@@ -63,7 +107,103 @@ I'm a Data Analyst and Data Science enthusiast with a strong foundation in data 
 
 ---
 
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajabharathi1001-hue&repo=ecommerce-performance-dashboard&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&icon_color=1E90FF&border_color=1E90FF" alt="Ecommerce Performance Dashboard" /></a>
+<a href="https://github.com/rajabharathi1001-hue/customer-churn-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajabharathi1001-hue&repo=customer-churn-analysis&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&icon_color=1E90FF&border_color=1E90FF" alt="Customer Churn Analysis" /></a>
+<a href="https://github.com/rajabharathi1001-hue/walmart-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajabharathi1001-hue&repo=walmart-sales-analysis&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&icon_color=1E90FF&border_color=1E90FF" alt="Walmart Sales Analysis" /></a>
+
+</div>
+
+### 🌟 01 — Ecommerce Performance Dashboard <sub>(Flagship)</sub>
+
+<table width="100%" align="center">
+  <tr>
+    <td align="center">
+      <p><i>Interactive Power BI dashboard for analyzing ecommerce sales, profit, orders, customer trends, product performance, and regional performance.</i></p>
+      <p>
+        <b>Data flow:</b> PostgreSQL → Power BI · <b>Modeling:</b> relationships + custom calendar table · <b>Analysis:</b> KPIs and time intelligence
+      </p>
+      <p>
+        <a href="https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard"><img src="https://img.shields.io/badge/Source%20Code-View%20Repository-1E90FF?style=for-the-badge&logo=github&logoColor=FFC400&labelColor=0B1F5C" alt="Source Code" /></a>
+        <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://img.shields.io/badge/More%20Work-Portfolio-1E90FF?style=for-the-badge&logo=googlechrome&logoColor=FFC400&labelColor=0B1F5C" alt="Portfolio" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<details>
+<summary><b>📈 What's inside (click to expand)</b></summary>
+
+- PostgreSQL → Power BI data integration, data preparation, relationships and data modeling
+- Custom calendar table with time intelligence
+- DAX measures: Total Sales, Total Profit, Order Quantity, Profit Margin, YTD Sales, PYTD Sales, YoY Growth
+- KPI indicators, slicers, and interactive visuals covering sales trends, regions, customer segments, product categories and profitability
+- Repo includes the `.pbix` file, Excel dataset, state latitude/longitude data, and README
+
+</details>
+
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Valentina Studio](https://img.shields.io/badge/Valentina%20Studio-4B5DFF?style=flat)
+
+---
+
+### 📉 02 — Customer Churn Analysis & Prediction
+> End-to-end customer churn analysis and prediction project combining Python, PostgreSQL, SQL, Random Forest, and Power BI.
+
+<details>
+<summary><b>🔎 Project workflow (click to expand)</b></summary>
+
+1. **Data preparation:** explored the dataset, cleaned missing/inconsistent values, removed unnecessary columns
+2. **SQL / PostgreSQL:** loaded data, created tables, transformed data with SQL
+3. **Preprocessing:** Label Encoding for categorical variables, train/test split
+4. **Machine learning:** Random Forest Classifier evaluated with accuracy score, confusion matrix, classification report and feature importance
+5. **Prediction:** identified customers likely to churn and exported results to CSV
+6. **Power BI:** churn trends, revenue insights, customer demographics, service usage behavior, prediction results
+
+The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots folders.
+
+</details>
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/customer-churn-analysis) &nbsp;|&nbsp; 🌐 [More in Portfolio](https://rajabharathi-portfolio.lovable.app/)
+
+---
+
+### 🏬 03 — Walmart Sales Analysis
+> Sales analysis project using Python and PostgreSQL to explore transactions, revenue, branches, products, payment methods, and sales performance.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+
+🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/walmart-sales-analysis)
+
+---
+
 ## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,powerbi,pandas,numpy,sklearn,git,github,vscode&theme=dark" alt="Tech stack icons" />
+
+</div>
 
 ### 🔤 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -102,63 +242,17 @@ I'm a Data Analyst and Data Science enthusiast with a strong foundation in data 
 
 ---
 
-## 🚀 Featured Projects
+## 🧩 LeetCode Problem Solving
 
-### 🛒 01 — Ecommerce Performance Dashboard
-> Interactive Power BI dashboard for analyzing ecommerce sales, profit, orders, customer trends, product performance, and regional performance.
+<div align="center">
 
-**What's inside**
-- PostgreSQL → Power BI data integration, data preparation, relationships and data modeling
-- Custom calendar table with time intelligence
-- DAX measures: Total Sales, Total Profit, Order Quantity, Profit Margin, YTD Sales, PYTD Sales, YoY Growth
-- KPI indicators, slicers, and interactive visuals covering sales trends, regions, customer segments, product categories and profitability
-- Repo includes the `.pbix` file, Excel dataset, state latitude/longitude data, and README
+<i>Live tracker of coding challenges and problem-solving progress.</i>
 
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=flat)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![Valentina Studio](https://img.shields.io/badge/Valentina%20Studio-4B5DFF?style=flat)
+<a href="https://leetcode.com/u/Raja_Bharathi/">
+<img src="https://leetcard.jacoblin.cool/Raja_Bharathi?theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
+</a>
 
-🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard) &nbsp;|&nbsp; 🌐 [More in Portfolio](https://rajabharathi-portfolio.lovable.app/)
-
----
-
-### 📉 02 — Customer Churn Analysis & Prediction
-> End-to-end customer churn analysis and prediction project combining Python, PostgreSQL, SQL, Random Forest, and Power BI.
-
-**Workflow**
-1. **Data preparation:** explored the dataset, cleaned missing/inconsistent values, removed unnecessary columns
-2. **SQL / PostgreSQL:** loaded data, created tables, transformed data with SQL
-3. **Preprocessing:** Label Encoding for categorical variables, train/test split
-4. **Machine learning:** Random Forest Classifier evaluated with accuracy score, confusion matrix, classification report and feature importance
-5. **Prediction:** identified customers likely to churn and exported results to CSV
-6. **Power BI:** churn trends, revenue insights, customer demographics, service usage behavior, prediction results
-- Repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots folders
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/customer-churn-analysis) &nbsp;|&nbsp; 🌐 [More in Portfolio](https://rajabharathi-portfolio.lovable.app/)
-
----
-
-### 🏬 03 — Walmart Sales Analysis
-> Sales analysis project using Python and PostgreSQL to explore transactions, revenue, branches, products, payment methods, and sales performance.
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
-
-🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/walmart-sales-analysis)
+</div>
 
 ---
 
@@ -169,21 +263,7 @@ I'm a Data Analyst and Data Science enthusiast with a strong foundation in data 
 <img src="https://github-readme-stats.vercel.app/api?username=rajabharathi1001-hue&show_icons=true&hide_border=false&count_private=true&bg_color=0B1220&title_color=FFC400&icon_color=1E90FF&text_color=E6EDF3&border_color=1E90FF" height="170" alt="GitHub Stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabharathi1001-hue&layout=compact&hide_border=false&langs_count=8&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&border_color=1E90FF" height="170" alt="Top Languages" />
 
-</div>
-
-<div align="center">
-
 <img src="https://streak-stats.demolab.com/?user=rajabharathi1001-hue&theme=dark&hide_border=false&border=1E90FF&background=0B1220&ring=1E90FF&fire=FFC400&currStreakLabel=FFC400&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=1E90FF&dates=8B98A9" alt="GitHub Streak" />
-
-</div>
-
-### 🧩 LeetCode
-
-<div align="center">
-
-<a href="https://leetcode.com/u/Raja_Bharathi/">
-<img src="https://leetcard.jacoblin.cool/Raja_Bharathi?theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
-</a>
 
 </div>
 
@@ -246,10 +326,30 @@ I'm a Data Analyst and Data Science enthusiast with a strong foundation in data 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/raja-bharathi-r/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-<a href="https://github.com/rajabharathi1001-hue"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:rajabharathi1001@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<i>Whether it's a data project, a dashboard idea, or an opportunity, my inbox is open!</i>
+
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://www.linkedin.com/in/raja-bharathi-r/"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /></a>
+      <br /><br />
+      <a href="https://www.linkedin.com/in/raja-bharathi-r/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+      <br /><sub><b>Professional Network</b></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://skillicons.dev/icons?i=chrome" width="60" height="60" alt="Portfolio" /></a>
+      <br /><br />
+      <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
+      <br /><sub><b>Projects &amp; Work</b></sub>
+    </td>
+    <td align="center" width="220">
+      <a href="mailto:rajabharathi1001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Email" /></a>
+      <br /><br />
+      <a href="mailto:rajabharathi1001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+      <br /><sub><b>Direct Contact</b></sub>
+    </td>
+  </tr>
+</table>
 
 </div>
 
