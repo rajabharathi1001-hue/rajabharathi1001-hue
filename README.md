@@ -187,13 +187,23 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
 ### 🏬 03 — Walmart Sales Analysis
 > Sales analysis project using Python and PostgreSQL to explore transactions, revenue, branches, products, payment methods, and sales performance.
 
+<details>
+<summary><b>🔎 Project details (click to expand)</b></summary>
+
+- **Goal:** analyze Walmart sales data to understand business performance using Python, PostgreSQL and SQL
+- **Analysis focus:** sales performance, customer behavior, branch performance, payment methods, product categories and other business metrics
+- **Workflow:** data analysis in a Jupyter Notebook (`Walmart.ipynb`) with SQL queries written for PostgreSQL
+- **Repo contents:** notebook, `walmart_sales_queries` folder for the SQL work, `requirements.txt` for the Python setup, and a project README
+
+</details>
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
-🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/walmart-sales-analysis)
+🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/walmart-sales-analysis) &nbsp;|&nbsp; 🌐 [More in Portfolio](https://rajabharathi-portfolio.lovable.app/)
 
 ---
 
