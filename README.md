@@ -109,13 +109,28 @@ I'm a Data Analyst and Data Science enthusiast with a strong foundation in data 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajabharathi1001-hue&repo=ecommerce-performance-dashboard&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&icon_color=1E90FF&border_color=1E90FF" alt="Ecommerce Performance Dashboard" /></a>
-<a href="https://github.com/rajabharathi1001-hue/customer-churn-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajabharathi1001-hue&repo=customer-churn-analysis&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&icon_color=1E90FF&border_color=1E90FF" alt="Customer Churn Analysis" /></a>
-<a href="https://github.com/rajabharathi1001-hue/walmart-sales-analysis"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rajabharathi1001-hue&repo=walmart-sales-analysis&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&icon_color=1E90FF&border_color=1E90FF" alt="Walmart Sales Analysis" /></a>
-
-</div>
+<table width="100%" align="center">
+  <tr>
+    <td width="33%" align="center" valign="top">
+      <h4>🛒 Ecommerce Performance Dashboard</h4>
+      <sub>Power BI · DAX · PostgreSQL</sub><br /><br />
+      <img src="https://img.shields.io/github/last-commit/rajabharathi1001-hue/ecommerce-performance-dashboard?style=flat-square&labelColor=0B1F5C&color=1E90FF" alt="Last commit" /> <img src="https://img.shields.io/github/repo-size/rajabharathi1001-hue/ecommerce-performance-dashboard?style=flat-square&labelColor=0B1F5C&color=FFC400" alt="Repo size" /><br /><br />
+      <a href="https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard"><b>View Repository →</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>📉 Customer Churn Analysis &amp; Prediction</h4>
+      <sub>Python · Random Forest · Power BI</sub><br /><br />
+      <img src="https://img.shields.io/github/languages/top/rajabharathi1001-hue/customer-churn-analysis?style=flat-square&labelColor=0B1F5C&color=1E90FF" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/rajabharathi1001-hue/customer-churn-analysis?style=flat-square&labelColor=0B1F5C&color=1E90FF" alt="Last commit" /> <img src="https://img.shields.io/github/repo-size/rajabharathi1001-hue/customer-churn-analysis?style=flat-square&labelColor=0B1F5C&color=FFC400" alt="Repo size" /><br /><br />
+      <a href="https://github.com/rajabharathi1001-hue/customer-churn-analysis"><b>View Repository →</b></a>
+    </td>
+    <td width="33%" align="center" valign="top">
+      <h4>🏬 Walmart Sales Analysis</h4>
+      <sub>Python · PostgreSQL · SQL</sub><br /><br />
+      <img src="https://img.shields.io/github/languages/top/rajabharathi1001-hue/walmart-sales-analysis?style=flat-square&labelColor=0B1F5C&color=1E90FF" alt="Top language" /> <img src="https://img.shields.io/github/last-commit/rajabharathi1001-hue/walmart-sales-analysis?style=flat-square&labelColor=0B1F5C&color=1E90FF" alt="Last commit" /> <img src="https://img.shields.io/github/repo-size/rajabharathi1001-hue/walmart-sales-analysis?style=flat-square&labelColor=0B1F5C&color=FFC400" alt="Repo size" /><br /><br />
+      <a href="https://github.com/rajabharathi1001-hue/walmart-sales-analysis"><b>View Repository →</b></a>
+    </td>
+  </tr>
+</table>
 
 ### 🌟 01 — Ecommerce Performance Dashboard <sub>(Flagship)</sub>
 
@@ -270,8 +285,10 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rajabharathi1001-hue&show_icons=true&hide_border=false&count_private=true&bg_color=0B1220&title_color=FFC400&icon_color=1E90FF&text_color=E6EDF3&border_color=1E90FF" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabharathi1001-hue&layout=compact&hide_border=false&langs_count=8&bg_color=0B1220&title_color=FFC400&text_color=E6EDF3&border_color=1E90FF" height="170" alt="Top Languages" />
+<img src="https://img.shields.io/github/followers/rajabharathi1001-hue?style=for-the-badge&logo=github&logoColor=FFC400&labelColor=0B1F5C&color=1E90FF" alt="Followers" />
+<img src="https://img.shields.io/github/last-commit/rajabharathi1001-hue/ecommerce-performance-dashboard?style=for-the-badge&logo=powerbi&logoColor=FFC400&labelColor=0B1F5C&color=1E90FF&label=Flagship%20Updated" alt="Flagship last update" />
+
+<br /><br />
 
 <img src="https://streak-stats.demolab.com/?user=rajabharathi1001-hue&theme=dark&hide_border=false&border=1E90FF&background=0B1220&ring=1E90FF&fire=FFC400&currStreakLabel=FFC400&currStreakNum=E6EDF3&sideNums=E6EDF3&sideLabels=1E90FF&dates=8B98A9" alt="GitHub Streak" />
 
@@ -281,9 +298,14 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/rajabharathi1001-hue/rajabharathi1001-hue/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+<img src="https://ghchart.rshah.org/1E90FF/rajabharathi1001-hue" width="95%" alt="GitHub contribution graph" />
 
 </div>
+
+<!-- OPTIONAL: contribution snake. Enable only after the "Generate Snake" workflow has run successfully
+     (the `output` branch must exist), then replace the graph above with:
+<img src="https://raw.githubusercontent.com/rajabharathi1001-hue/rajabharathi1001-hue/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+-->
 
 ---
 
