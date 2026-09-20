@@ -1,194 +1,222 @@
-<h1 align="center">Hi, I'm Raja Bharathi R 👋</h1>
+<div align="center">
+
+<img src="./github-banner.png" width="100%" alt="Raja Bharathi R Banner"/>
+
+<br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=C9A227&center=true&vCenter=true&width=900&lines=Turning+Data+Into+Decisions+That+Drive+Results+🚀;Data+Analytics+%7C+Power+BI+%7C+Machine+Learning;Transforming+Raw+Data+Into+Business+Insights+🚀)](https://git.io/typing-svg)
+
+<br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Data+Analyst;Power+BI+Developer;Python+%26+SQL+Enthusiast" alt="Typing animation" />
+  <img src="https://komarev.com/ghpvc/?username=rajabharathi1001-hue&label=Profile%20Views&color=D4AF37&style=flat-square" alt="Profile Views" />
 </p>
 
-<p align="center">
-  <a href="https://linkedin.com/in/raja-bharathi-r"><img src="https://img.shields.io/badge/LinkedIn-Connect-DC2626?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0a0a" alt="LinkedIn" /></a>
-  <a href="mailto:rajabharathi1001@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-DC2626?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0a0a" alt="Email" /></a>
-  <a href="https://leetcode.com/u/Raja_Bharathi/"><img src="https://img.shields.io/badge/LeetCode-Profile-DC2626?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0a0a0a" alt="LeetCode" /></a>
-  <a href="https://rajabharathi-portfolio.lovable.app"><img src="https://img.shields.io/badge/Portfolio-Visit-DC2626?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0a0a0a" alt="Portfolio" /></a>
-  <a href="https://drive.google.com/file/d/1IcRFmYvkogss6yPHPBZDALnXSM2GSHYi/view"><img src="https://img.shields.io/badge/Resume-View-DC2626?style=for-the-badge&logo=googledrive&logoColor=white&labelColor=0a0a0a" alt="Resume" /></a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rajabharathi1001-hue&label=Profile+Views&color=dc2626&style=for-the-badge" alt="Profile views" />
-</p>
+## 👋 Welcome
+
+I'm **Raja Bharathi R**, a passionate **Data Analyst and Data Science Enthusiast** focused on transforming raw data into meaningful insights through analytics, visualization, and machine learning.
+
+## 👤 About Me
+
+🎓 **MCA (Data Science & Artificial Intelligence)** | **BCA (Computer Applications)**  
+📍 **Tamil Nadu, India**  
+💼 **Data Analyst | Power BI Developer | Machine Learning Enthusiast**  
+🌐 **Portfolio:** [rajabharathi-portfolio.lovable.app](https://rajabharathi-portfolio.lovable.app/)  
+🔗 **LinkedIn:** [Raja Bharathi R](https://www.linkedin.com/in/raja-bharathi-r/)  
+📧 **Email:** [rajabharathi1001@gmail.com](mailto:rajabharathi1001@gmail.com)
 
 ---
 
-<h2 align="center">📊 About Me</h2>
+I'm a passionate **Data Analyst and Data Science enthusiast** with a strong foundation in data analytics, business intelligence, and machine learning. I enjoy transforming raw data into meaningful insights through Python, SQL, Power BI, and data visualization. Currently, I'm building analytics projects, exploring predictive modeling techniques, and strengthening my expertise in data-driven decision-making.
 
-<p align="center">
-  Data Analyst focused on <b>SQL, Python, Power BI</b>, and data visualization.<br />
-  I enjoy transforming raw data into meaningful insights through analysis, dashboards, and machine-learning projects.
-</p>
+🎯 **Career Goal:** Seeking opportunities as a **Data Analyst**, **Business Intelligence Analyst**, or **Power BI Developer** where I can leverage data to solve real-world business problems, create impactful dashboards, and support strategic decision-making.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Degree-MCA_Data_Science_%26_AI-DC2626?style=flat-square" alt="Degree" />
-  <img src="https://img.shields.io/badge/Graduated-2025-111111?style=flat-square" alt="Graduated" />
-  <img src="https://img.shields.io/badge/Location-Tamil_Nadu,_India-111111?style=flat-square" alt="Location" />
-</p>
-
-<table width="100%" align="center">
-  <tr>
-    <td width="50%" align="center">
-      <h4>🎓 Education</h4>
-      <p><b>MCA — Data Science &amp; AI</b><br /><sub>Guru Nanak College, Chennai (2025)</sub></p>
-    </td>
-    <td width="50%" align="center">
-      <h4>🎯 Career Goal</h4>
-      <p><b>Data Analyst / BI Analyst</b><br /><sub>Power BI Developer</sub></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <h4>🔭 Currently Working On</h4>
-      <p><sub>Data analytics projects, Power BI dashboards, SQL analysis, and building my professional portfolio</sub></p>
-    </td>
-    <td width="50%" align="center">
-      <h4>🌱 Currently Learning</h4>
-      <p><sub>Advanced Power BI, DAX, SQL, data modeling, and practical data analytics</sub></p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  💬 <b>Ask me about:</b> SQL, Power BI, DAX, Python, Pandas, PostgreSQL, Excel, data cleaning, data analysis, and dashboards.
-</p>
+💡 **Fun Fact:** I enjoy turning complex datasets into simple visual stories that help people make better decisions.
 
 ---
 
-<h2 align="center">🚀 Featured Projects</h2>
+## 🛠️ Tech Stack
 
-<table width="100%" align="center">
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h3>01 — Ecommerce Performance Dashboard</h3>
-      <p><i>Interactive Power BI dashboard for analyzing ecommerce sales, profit, orders, customer trends, product performance, and regional performance.</i></p>
-      <p>
-        <b>Highlights:</b> PostgreSQL → Power BI integration, data modeling, custom calendar table, DAX measures (Total Sales, Total Profit, Profit Margin, YTD, PYTD, YoY Growth), KPI tracking, slicers.
-      </p>
-      <p><sub>Power BI · Power Query · DAX · PostgreSQL · SQL · Valentina Studio</sub></p>
-      <p>
-        <a href="https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard"><img src="https://img.shields.io/badge/Source_Code-View_Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Ecommerce repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h3>02 — Customer Churn Analysis &amp; Prediction</h3>
-      <p><i>End-to-end customer churn analysis and prediction project combining Python, PostgreSQL, SQL, Random Forest, and Power BI.</i></p>
-      <p>
-        <b>Highlights:</b> data cleaning and preparation, SQL transformation, label encoding, Random Forest Classifier, evaluation (accuracy, confusion matrix, classification report, feature importance), exported predictions, Power BI churn insights.
-      </p>
-      <p><sub>Python · Pandas · NumPy · Matplotlib · Scikit-learn · PostgreSQL · SQL · Power BI · DAX · Excel · Jupyter</sub></p>
-      <p>
-        <a href="https://github.com/rajabharathi1001-hue/customer-churn-analysis"><img src="https://img.shields.io/badge/Source_Code-View_Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Churn repo" /></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" style="padding: 20px;">
-      <h3>03 — Walmart Sales Analysis</h3>
-      <p><i>Sales analysis project using Python and PostgreSQL to explore transactions, revenue, branches, products, payment methods, and sales performance.</i></p>
-      <p><sub>Python · Pandas · PostgreSQL · SQL · Jupyter Notebook</sub></p>
-      <p>
-        <a href="https://github.com/rajabharathi1001-hue/walmart-sales-analysis"><img src="https://img.shields.io/badge/Source_Code-View_Repository-111111?style=for-the-badge&logo=github&logoColor=EF4444&labelColor=0a0a0a" alt="Walmart repo" /></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<!-- ── LANGUAGES ── -->
+### 🔤 Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+
+<!-- ── DATA & BI TOOLS ── -->
+### 📊 Data & BI Tools
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Microsoft Excel](https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power Query](https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+<!-- ── LIBRARIES & FRAMEWORKS ── -->
+### 📦 Libraries & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+<!-- ── DATABASES ── -->
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+
+<!-- ── TOOLS & PLATFORMS ── -->
+### ⚙️ Tools & Platforms
+
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Valentina Studio](https://img.shields.io/badge/Valentina%20Studio-4B5DFF?style=for-the-badge)
+---
+
+## 🚀 Featured Projects
+
+<!-- ── PROJECT 1 ── -->
+### 📉 Customer Churn Analysis & Prediction
+> End-to-end customer churn prediction solution using machine learning to identify at-risk customers. Built interactive Power BI dashboards to visualize churn trends, customer behavior, and business insights for data-driven decision-making.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
+🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue) &nbsp;|&nbsp; 🌐 [Live Demo — Available in Portfolio](https://rajabharathi-portfolio.lovable.app/)
 
 ---
 
-<h2 align="center">🛠️ Tech Stack &amp; Skills</h2>
+<!-- ── PROJECT 2 ── -->
+### 🛒 Ecommerce Performance Dashboard
+> Interactive business intelligence dashboard analyzing sales performance, profit trends, customer behavior, and key KPIs. Implemented advanced DAX measures and visualizations to support strategic decision-making.
 
-<p align="center"><b>Programming &amp; Data Analysis</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-0a0a0a?style=for-the-badge&logo=python&logoColor=EF4444" alt="Python" />
-  <img src="https://img.shields.io/badge/SQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=EF4444" alt="SQL" />
-  <img src="https://img.shields.io/badge/Pandas-0a0a0a?style=for-the-badge&logo=pandas&logoColor=EF4444" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-0a0a0a?style=for-the-badge&logo=numpy&logoColor=EF4444" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Scikit--learn-0a0a0a?style=for-the-badge&logo=scikit-learn&logoColor=EF4444" alt="Scikit-learn" />
-</p>
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
-<p align="center"><b>BI &amp; Visualization</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-0a0a0a?style=for-the-badge&logo=powerbi&logoColor=EF4444" alt="Power BI" />
-  <img src="https://img.shields.io/badge/DAX-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="DAX" />
-  <img src="https://img.shields.io/badge/Power_Query-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Power Query" />
-  <img src="https://img.shields.io/badge/Matplotlib-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Matplotlib" />
-  <img src="https://img.shields.io/badge/Excel-0a0a0a?style=for-the-badge&logo=microsoftexcel&logoColor=EF4444" alt="Excel" />
-</p>
-
-<p align="center"><b>Databases &amp; Tools</b></p>
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-0a0a0a?style=for-the-badge&logo=postgresql&logoColor=EF4444" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-0a0a0a?style=for-the-badge&logo=mysql&logoColor=EF4444" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Jupyter-0a0a0a?style=for-the-badge&logo=jupyter&logoColor=EF4444" alt="Jupyter" />
-  <img src="https://img.shields.io/badge/Git-0a0a0a?style=for-the-badge&logo=git&logoColor=EF4444" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=EF4444" alt="GitHub" />
-  <img src="https://img.shields.io/badge/Valentina_Studio-0a0a0a?style=for-the-badge&logoColor=EF4444" alt="Valentina Studio" />
-</p>
-
-<p align="center"><b>Core Analytics</b></p>
-<p align="center">
-  Data Cleaning · Data Validation · Exploratory Data Analysis · Data Modeling · KPI Analysis · Time Intelligence
-</p>
-
-<p align="center"><b>Excel Skills</b></p>
-<p align="center">
-  Pivot Tables · VLOOKUP · XLOOKUP · SUMIF/SUMIFS · COUNTIF/COUNTIFS · IF/IFS · Conditional Formatting
-</p>
+🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue/ecommerce-performance-dashboard) &nbsp;|&nbsp; 🌐 [Live Demo — Available in Portfolio](https://rajabharathi-portfolio.lovable.app/)
 
 ---
 
-<h2 align="center">🧩 LeetCode</h2>
+<!-- ── PROJECT 3 ── -->
+### 🏠 House Price Prediction
+> Machine learning model to predict house prices using historical data. Covers data cleaning, feature engineering, EDA, and model evaluation to improve prediction accuracy.
 
-<p align="center">
-  <a href="https://leetcode.com/u/Raja_Bharathi/">
-    <img src="https://leetcard.jacoblin.cool/Raja_Bharathi?theme=dark&font=Karma&border=0&radius=12" alt="LeetCode Stats" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
 
----
-
-<h2 align="center">📈 GitHub Analytics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=rajabharathi1001-hue&show_icons=true&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&icon_color=ef4444&border_color=ef4444" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabharathi1001-hue&layout=compact&bg_color=0a0a0a&title_color=ef4444&text_color=f3f4f6&border_color=ef4444" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rajabharathi1001-hue&theme=dark&background=0a0a0a&ring=ef4444&fire=ef4444&currStreakLabel=ef4444&border=ef4444" alt="GitHub Streak" />
-</p>
+🔗 [GitHub Repo](https://github.com/rajabharathi1001-hue)
 
 ---
 
-<h2 align="center">🐍 Contribution Journey</h2>
+## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/rajabharathi1001-hue/rajabharathi1001-hue/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
-</p>
+<div align="center">
+
+<!-- ── STATS CARD ── -->
+<img src="https://github-readme-stats.vercel.app/api?username=rajabharathi1001-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="GitHub Stats" />
+
+<!-- ── TOP LANGUAGES ── -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajabharathi1001-hue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="170" alt="Top Languages" />
+
+</div>
+
+<div align="center">
+
+<!-- ── STREAK STATS ── -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rajabharathi1001-hue&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+
+</div>
 
 ---
 
-<h2 align="center">📬 Let's Connect</h2>
+## 🏆 Achievements & Certifications
 
-<p align="center"><i>Open to Data Analyst, BI Analyst and Power BI Developer opportunities. Feel free to reach out!</i></p>
+### 🥇 Achievements
+- ✅ Successfully completed a **Machine Learning Internship Project** through Edunet Foundation
+- ✅ Passed **NASSCOM and IABAC assessments** as part of the Certified Data Scientist program
+- ✅ Built multiple end-to-end **Data Analytics, BI, and ML projects** using Python, SQL, Power BI & PostgreSQL
+- ✅ Developed **interactive dashboards and predictive analytics solutions** for real-world business scenarios
 
-<table align="center">
-  <tr>
-    <td align="center" width="220">
-      <a href="https://linkedin.com/in/raja-bharathi-r"><img src="https://skillicons.dev/icons?i=linkedin" width="60" height="60" alt="LinkedIn" /></a>
-      <br /><sub><b>Professional Network</b></sub>
-    </td>
-    <td align="center" width="220">
-      <a href="mailto:rajabharathi1001@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="60" height="60" alt="Email" /></a>
-      <br /><sub><b>Direct Contact</b></sub>
-    </td>
-  </tr>
-</table>
+### 📜 Certifications
+
+| Certification | Issuer | Year |
+|---|---|---|
+| Associate Data Analyst | DataCamp | 2026 |
+| Certified Data Scientist (CDS) | IABAC | 2025 |
+| Data Science Certification Program | DataMites | 2025 |
+| Machine Learning Internship Certificate | Edunet Foundation | 2025 |
+| FutureSkills Assessment Completion | NASSCOM | 2025 |
+---
+
+## 📚 Currently Learning
+
+<div align="left">
+
+![Power BI Advanced](https://img.shields.io/badge/Advanced%20Power%20BI%20%26%20DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Advanced SQL](https://img.shields.io/badge/Advanced%20SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![ML Optimization](https://img.shields.io/badge/ML%20Model%20Optimization-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-0A66C2?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![AI Applications](https://img.shields.io/badge/AI%20Applications-412991?style=for-the-badge&logo=openai&logoColor=white)
+![BI Storytelling](https://img.shields.io/badge/BI%20%26%20Data%20Storytelling-217346?style=for-the-badge&logo=microsoft&logoColor=white)
+
+</div>
+
+---
+
+## 🤝 Open to Collaborate On
+
+- 📊 Data Analytics & Business Intelligence Projects
+- 📈 Power BI Dashboard Development
+- 🤖 Machine Learning & Predictive Analytics
+- 🌐 Open-Source Data Science Projects
+- 🔬 Research Projects in Data Science & AI
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/raja-bharathi-r/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://rajabharathi-portfolio.lovable.app/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<a href="https://github.com/rajabharathi1001-hue">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="mailto:rajabharathi1001@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+</div>
+
+
+---
+
+<div align="center">
+
+### 💡 Motto
+
+**Turning Data Into Decisions That Drive Results.**
+
+⭐ If you find my work helpful, consider giving a star to my repositories!
+
+</div>
+
