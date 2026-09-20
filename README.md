@@ -347,7 +347,7 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
       <br /><sub><b>Professional Network</b></sub>
     </td>
     <td align="center" width="220">
-      <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="60" height="60" alt="Portfolio" /></a>
+      <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/png/lovable.png" width="60" height="60" alt="Lovable Portfolio" /></a>
       <br /><br />
       <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
       <br /><sub><b>Projects &amp; Work</b></sub>
