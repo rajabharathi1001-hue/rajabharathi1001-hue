@@ -211,7 +211,7 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,powerbi,pandas,numpy,sklearn,git,github,vscode&theme=dark" alt="Tech stack icons" />
+<img src="https://skillicons.dev/icons?i=py,postgres,mysql,sqlite,sklearn,git,github,vscode&theme=dark" alt="Tech stack icons" />
 
 </div>
 
@@ -347,7 +347,7 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
       <br /><sub><b>Professional Network</b></sub>
     </td>
     <td align="center" width="220">
-      <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://skillicons.dev/icons?i=chrome" width="60" height="60" alt="Portfolio" /></a>
+      <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="60" height="60" alt="Portfolio" /></a>
       <br /><br />
       <a href="https://rajabharathi-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
       <br /><sub><b>Projects &amp; Work</b></sub>
