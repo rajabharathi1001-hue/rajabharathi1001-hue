@@ -397,4 +397,4 @@ The repo is organized into Dashboard, Dataset, Notebook, SQL and screenshots fol
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0B1F5C,1E90FF,FFC400&height=110&section=footer" width="100%" alt="footer wave" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0B1F5C,50:1E90FF,100:FFC400&text=Thanks%20for%20visiting&fontColor=FFFFFF&fontSize=30&fontAlignY=32&animation=waving" width="100%" alt="Thanks for visiting" />
